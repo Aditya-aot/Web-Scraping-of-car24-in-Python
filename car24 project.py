@@ -13,7 +13,7 @@ no_page = 1
 
 tables = soup.find_all("div", {"class": "col-sm-12 col-md-6 col-lg-4"})
 
-while cars_no < 40:
+while cars_no < 42:
     for table in tables:
 
         url = 'https://www.cars24.com/buy-used-honda-cars-delhi-ncr/'
