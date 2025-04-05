@@ -19,6 +19,7 @@ Here's how I built my Cars24 data collection system:
    - Price and EMI options
    - Location and viewership data
    - Odometer readings & ownership history
+![Screenshot 2025-04-05 113309](https://github.com/user-attachments/assets/f6009d23-bee3-4172-8f50-b2bad893cda0)
 
 📌 Data Processing:
 - Used regex to clean messy text fields
